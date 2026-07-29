@@ -14,4 +14,4 @@ class Solution(object):
             for j in range(len(matrix[0])):
                 matrix[i][j] = a[k]
                 k +=1
-        return matrix
+        return a
